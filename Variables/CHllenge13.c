@@ -14,6 +14,8 @@ int main(){
      itoa(num, binary, 2);
     printf("the number in banary is %s ", binary);
 
+    return 0;
+
 
     
 }

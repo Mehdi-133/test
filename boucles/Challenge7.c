@@ -14,7 +14,7 @@ int main (){
 
     while (numbers != 0)
     {
-       rest = numbers % 10;
+       rest = numbers% 10;
        inverse = inverse * 10 + rest;
        numbers = numbers / 10;
     }

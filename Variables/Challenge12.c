@@ -7,7 +7,7 @@ int main(){
     int num1 ;
    
 
-    printf("enter four digits numbers: ");
+    printf("enter four digits  numbers: ");
     scanf("%d", &num1 );
 
     inverse = (num1%10)*1000;
